@@ -101,4 +101,5 @@ function showHistory() {
 showHistory();
 //now you can run this code in your browser to see how it works. It will fetch weather data for the specified city and display it on the page, while also logging the asynchronous flow in the console box.
 //end
+//you can also check the local storage to see the visited cities being stored and retrieved correctly.
 
