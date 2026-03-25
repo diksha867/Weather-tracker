@@ -103,4 +103,5 @@ showHistory();
 //end
 //you can also check the local storage to see the visited cities being stored and retrieved correctly.
 //Note: Make sure to replace the API key with your own if you want to test it, as the provided key may have usage limits or restrictions.
+//end of script.js
 
