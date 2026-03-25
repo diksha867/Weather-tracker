@@ -100,3 +100,4 @@ function showHistory() {
 
 showHistory();
 //now we have a weather app that fetches data from OpenWeatherMap API and displays it. It also keeps track of visited cities and allows users to click on them to fetch weather data again. The console box logs the flow of asynchronous operations, demonstrating how JavaScript handles async tasks with promises and the event loop.
+// Note: Remember to replace the API key with your own from OpenWeatherMap for the app to work.
