@@ -104,4 +104,5 @@ showHistory();
 // This code is a simple weather application that allows users to search for the current weather in a city. It uses the OpenWeatherMap API to fetch weather data and displays it on the page. The application also keeps track of previously searched cities and allows users to click on them to fetch the weather data again. Additionally, it logs the flow of asynchronous operations in a console box to demonstrate how JavaScript handles async tasks with promises and the event loop.
 // The main functions in the code are:
 // - `logMessage(msg)`: A helper function to log messages to the console box.
-// - `searchWeather(cityName)`: An asynchronous function that fetches weather data for a given city name, updates the UI with the weather information, and logs the flow of asynchronous operations.
+// - `searchWeather(cityName)`: An asynchronous function that fetches weather data for a given city name, updates the UI with the weather information, and logs the flow of asynchronous operations
+// - An event listener for the form submission that triggers the `searchWeather` function with the entered city name.
