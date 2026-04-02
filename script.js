@@ -108,3 +108,4 @@ showHistory();
 // - An event listener for the form submission that triggers the `searchWeather` function with the entered city name.
 // - `showHistory()`: A function that displays the list of previously searched cities as buttons, allowing users to click on them to fetch weather data again.
 // The application also uses localStorage to keep track of visited cities, allowing the history to persist across page reloads.
+// Note: Remember to replace the API key with your own from OpenWeatherMap for the app to work.
