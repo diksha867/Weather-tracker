@@ -107,3 +107,4 @@ showHistory();
 // - `searchWeather(cityName)`: An asynchronous function that fetches weather data for a given city name, updates the UI with the weather information, and logs the flow of asynchronous operations
 // - An event listener for the form submission that triggers the `searchWeather` function with the entered city name.
 // - `showHistory()`: A function that displays the list of previously searched cities as buttons, allowing users to click on them to fetch weather data again.
+// The application also uses localStorage to keep track of visited cities, allowing the history to persist across page reloads.
